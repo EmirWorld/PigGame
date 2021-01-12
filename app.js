@@ -30,6 +30,13 @@ document.querySelector('.btn--roll').addEventListener('click', function () {
   document.querySelector('#current-' + activePlayer).textContent = dice;
 
   //Update round result if its not rolled 1
-
+  if (dice !== 1){
+    //add score
+    roundScore += dice;
+    document.getElementById('current-' + activePlayer).textContent = roundScore;
+  }else{
+    // Next player
+    activePlayer === 0 ? activePlayer = 1 : activePlayer =0;
+  }
 
 });
