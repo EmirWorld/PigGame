@@ -10,4 +10,4 @@ Simple PigGame in JavaScript
 * The first player to reach 100 points on GLOBAL score wins the game
 * */
 
-![alt text](http://url/to/img.png)
+![Project Image](https://github.com/EmirWorld/PigGame/blob/master/ProjectImage.png)
