@@ -1,0 +1,22 @@
+{
+  "name": "piggame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmirWorld/PigGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmirWorld/PigGame/issues"
+  },
+  "homepage": "https://github.com/EmirWorld/PigGame#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
