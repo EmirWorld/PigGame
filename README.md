@@ -1,6 +1,8 @@
 # PigGame
 Simple PigGame in JavaScript
 
+Visit site: https://pigeygame.netlify.app/ to check out game
+
 
 *  GAME RULES
 * The Game has 2 players, playing in rounds
